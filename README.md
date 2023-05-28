@@ -1,2 +1,2 @@
 # public_code
-Compilation of public Python code/projects 
+ML data, comma separated txt files for various tickers 
